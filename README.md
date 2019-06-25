@@ -1,4 +1,4 @@
-1. npm i -g json-server
+1. sudo npm i -g json-server
 2. в корневой папке (Test) запустить команду json-server data.json
 3. открыть файл index.html в браузере 
 
