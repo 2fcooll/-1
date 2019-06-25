@@ -1,7 +1,7 @@
--npm i -g json-server
--в корневой папке (Test) запустить команду json-server data.json
--открыть файл index.html в браузере 
+1. npm i -g json-server
+2. в корневой папке (Test) запустить команду json-server data.json
+3. открыть файл index.html в браузере 
 
--если потребуется пересборка
--npm i
--npm run build
+1. если потребуется пересборка
+2. npm i
+3. npm run build
